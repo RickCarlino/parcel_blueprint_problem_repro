@@ -1,0 +1,19 @@
+{
+  "name": "blueprint_css_problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blueprintjs/core": "^3.10.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.8",
+    "sass": "^1.16.1"
+  }
+}
